@@ -1,4 +1,11 @@
 {
+  "name": "anime-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp Anime Bot",
+  "main": "animeBot.js",
+  "scripts": {
+    "start": "node animeBot.js"
+  },
   "dependencies": {
     "@open-wa/wa-automate": "^4.61.2",
     "jikanjs": "^0.7.0",
